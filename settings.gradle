@@ -1,2 +1,3 @@
+include ':aserver'
 include ':lib'
-include ':server'
+
